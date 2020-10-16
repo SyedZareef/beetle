@@ -44,7 +44,7 @@ header{
     top: 15px;
     right: 0;
 }
-.htbn img{
+.hbtn{
 	text-align: center;
 }
 .hbtn button:focus {
@@ -72,9 +72,11 @@ header{
 	text-align: center;
 	padding-bottom: 90px;
 }
-.blog button{
+.bbtn{
 	padding-top: 100px;
 	padding-bottom: 80px;
+}
+.bbtn button{
 	width: 244px;
     height: 50px;
 	text-align: center;
