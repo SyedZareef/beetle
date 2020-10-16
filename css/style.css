@@ -1,0 +1,162 @@
+/*font-family: 'Montserrat', sans-serif;*/
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+/*header starts*/
+header{
+	background-image: url(../images/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.menu{
+	margin-top: 15px;
+}
+.menu ul{}
+.menu ul li{}
+.menu ul li a{
+	/*color: #ffffff;*/
+	/*font-family: 'Montserrat', sans-serif;*/
+	font-weight: 700;
+	color: #ffffff !important;
+	
+}
+.menu ul li:last-child a {
+	padding-right: 0 !important;
+}
+.c1{
+	padding: 270px 0;
+	text-align: center;
+}
+.c1 h1{
+	font-weight: 700;
+	font-size: 76px;
+	color: white;
+}
+.c1 p{
+	font-size: 23px;
+	color: white;
+}
+.hbtn button {
+	text-align: center;
+	background: transparent;
+	border: none;
+    cursor: pointer;
+    top: 15px;
+    right: 0;
+}
+.htbn img{
+	text-align: center;
+}
+.hbtn button:focus {
+	outline: 0;
+}
+/*header ends*/
+/*uiux starts*/
+.uiux{
+	background-color: #f4f4f4;
+	padding: 91px 0;
+}
+.uiux h1{
+	font-weight: 700;
+	font-size: 32px;
+}
+.uiux p{}
+/*uiux end*/
+/*blog section start*/
+.blog{
+	padding-top: 100px;
+}
+.blog h1{
+	font-weight: 700;
+	font-size: 21.3px;
+	text-align: center;
+	padding-bottom: 90px;
+}
+.blog button{
+	padding-top: 100px;
+	padding-bottom: 80px;
+	width: 244px;
+    height: 50px;
+	text-align: center;
+	background: transparent;
+	border: #55c1e7;
+    cursor: pointer;
+    top: 15px;
+    right: 0;
+}
+/*blog section end*/
+/*skills start*/
+.skills {
+	padding-top: 150px;
+	padding-bottom: 170px;
+	background-color: #f5f5f5;
+}
+.skills h1{
+	font-weight: 700;
+	font-size: 21.3px;
+	text-align: center;
+	padding-bottom: 90px;
+}
+.skills p {
+	text-align: center;
+	padding-bottom: 170px;
+}
+.circle{
+	/*padding-top: 100px;*/
+	padding-bottom: 50px;
+}
+/*skills end*/
+/*quote start*/
+.quote {
+	padding: 100px 0;
+	background-color: #ff605f;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+.quote p {
+	font-size: 32px;
+	color: white;
+}
+.quote h1 {
+	font-size: 23.3px;
+	color: white;
+}
+/*quote end*/
+/*contact starts*/
+.contact{
+	background-color: #f6f6f6;
+	padding-top: 150px;
+	padding-bottom: 170px;
+}
+.contact h1{
+	font-weight: 700;
+	font-size: 21.3px;
+	text-align: center;
+	padding-bottom: 90px;
+}
+/*contact ends*/
+/*location starts*/
+.map img{
+	width: 100%;
+}
+/*location ends*/
+/*FOOTER START*/
+.footer{
+	background-color: #363842;
+	padding: 100px 0;
+}
+.footer h1{
+	font-weight: 700;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}
+/*.footer ul {
+	list-style:none;
+	text-align: center;	
+}
+.footer ul li {}
+.footer ul li a {
+	text-align: left;
+}*/
+/*FOOTER END*/
